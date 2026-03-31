@@ -16,7 +16,7 @@ It is designed to work seamlessly with Odoo Community & Enterprise versions.
 - ⚡ Real-time KPI updates
 - 🔧 Plug-and-play installation
 - 💜 Fully compatible with Odoo 19
-
+main change checkkk
 
 
 klnkjn
