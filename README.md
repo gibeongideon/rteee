@@ -23,7 +23,13 @@ klnkjn
 
 mn
 ## 🚀 Installation
+'
 
+
+
+
+
+'
 1. Download the ZIP file from https://apps.odoo.com/apps/modules/19.0/synconics_bi_dashboard.
 2. Extract it into your Odoo `addons` folder.
 3. Install required python packages mentioned in `requirements.txt` with the use of `pip`.
