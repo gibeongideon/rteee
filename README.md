@@ -18,10 +18,7 @@ It is designed to work seamlessly with Odoo Community & Enterprise versions.
 - 💜 Fully compatible with Odoo 19
 
 
-
-klnkjn
-
-mn
+Git hub test webhook
 ## 🚀 Installation
 
 1. Download the ZIP file from https://apps.odoo.com/apps/modules/19.0/synconics_bi_dashboard.
