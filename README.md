@@ -18,7 +18,7 @@ It is designed to work seamlessly with Odoo Community & Enterprise versions.
 - 💜 Fully compatible with Odoo 19
 
 
-
+ooooooooooooooooooooooooooooooooooooooooooooooooooooo
 klnkjn
 
 mn
