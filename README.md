@@ -7,7 +7,7 @@ mlm
 The **BI-Dashboard** is a free, ready-to-use module that helps Odoo users visualize their key business data with a beautiful, interactive dashboard.
 It is designed to work seamlessly with Odoo Community & Enterprise versions.
 ## ✨ Key Features
-
+ruyioruyiortiohjrthojtrohj
 - 📊 Customizable dashboard widgets
 - ⚡ Real-time KPI updates
 - 🔧 Plug-and-play installation
