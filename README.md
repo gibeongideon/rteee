@@ -2,8 +2,6 @@
 
 ![Synconics Technologies Pvt. Ltd.](https://www.synconics.com/web/image/11037-1cd3fc03/Synconics-png.png)
 
-
-
 mlm
 ## 🖥 Overview
 
